@@ -1,8 +1,15 @@
 # ✈️ Aircraft Analytics – Data Analysis with Snowflake & Deepnote
+📊 SQL • Snowflake • Deepnote • Data Analysis • Business Insights
 
-Project carried out as part of the **Fullstack Data Analyst training at Jedha**.  
-The objective: analyze airline activity using SQL in Snowflake and build clear, business-oriented visualizations in Deepnote.
+## 🚀 Key Results
 
+- Identified the most used aircraft type (**Goose – 1008 flights**)
+- Highlighted strong passenger concentration in major airports
+- Analyzed airline performance using **RPM metrics**
+- Identified growth trends using **ASM indicators**
+
+End-to-end data analysis project conducted as part of the Jedha Fullstack Data Analyst program.
+The objective is to analyze airline activity using SQL in Snowflake and build clear, business-oriented visualizations in Deepnote.
 ---
 
 ## 🎯 Project Objectives
@@ -12,6 +19,16 @@ The objective: analyze airline activity using SQL in Snowflake and build clear, 
 - Answer key analytical questions about aircraft usage, airport traffic, and airline performance  
 - Build clear visualizations to support decision-making  
 - Publish a structured and professional project on GitHub  
+
+---
+## 💼 Business Value
+
+This analysis helps:
+
+- Airlines optimize fleet usage and operational efficiency  
+- Identify high-traffic airports for strategic planning  
+- Understand revenue performance trends  
+- Support data-driven decision-making in airline operations  
 
 ---
 
@@ -32,17 +49,16 @@ The objective: analyze airline activity using SQL in Snowflake and build clear, 
 
 ## 📊 Business Questions & Analysis
 
----
 
 ### ✈️ 1. Which aircraft is used the most?
 
-| Number of Flights by Aircraft |
+| Number of Flights by Aircraft | 
 | :---: | 
-| ![Flights by aircraft](screenshots/Q1_aircraft.png) |
+| ![Flights by aircraft](screenshots/Q1_aircraft.png) | 
 
 ### 🔍 Insight
 
-- The **Goose aircraft** is the most frequently used  
+- The **Goose aircraft dominates operations**, indicating standardized fleet usage for efficiency
 
 ### 💡 Interpretation
 
@@ -130,7 +146,7 @@ The objective: analyze airline activity using SQL in Snowflake and build clear, 
 - `/sql` → SQL queries used for analysis  
 - `/screenshots` → visualizations from Deepnote  
 - `README.md` → project documentation
-- `/gitignore`  
+- `.gitignore` 
 
 ---
 
@@ -165,20 +181,16 @@ It demonstrates how structured SQL analysis can generate actionable business ins
 - Build a complete data pipeline (dbt / automation)  
 
 ---
+## 🧠 Skills Demonstrated
+
+- SQL data analysis (joins, aggregations, CTEs)  
+- Data exploration and business interpretation  
+- KPI analysis (RPM, ASM)  
+- Data visualization and storytelling  
+- Structuring a professional data project  
 
 ## 👩‍💻 Author
 
 **Saida Hadhraoui**  
 Data Analyst | Urban Planning & Geospatial Data  
 
----
-
-## ⭐ Project Value
-
-This project demonstrates:
-
-- SQL data analysis (Snowflake)  
-- Data aggregation and transformation  
-- Business-oriented insights  
-- Data visualization  
-- Structured project documentation  

@@ -38,7 +38,7 @@ The objective: analyze airline activity using SQL in Snowflake and build clear, 
 
 | Number of Flights by Aircraft | Distribution (%) |
 | :---: | :---: |
-| ![Flights by aircraft](screenshots/Q1_aircraft.png) | ![Distribution aircraft](screenshots/Q1_aircraft.png) |
+| ![Flights by aircraft](screenshots/Q1_aircraft.png) |
 
 ### 🔍 Insight
 
@@ -55,7 +55,7 @@ The objective: analyze airline activity using SQL in Snowflake and build clear, 
 
 | Passenger Volume | Passenger Distribution |
 | :---: | :---: |
-| ![Passengers](screenshots/Q2_airports.png) | ![Distribution](screenshots/Q2_airports.png) |
+| ![Passengers](screenshots/Q2_airports.png) | 
 
 ### 🔍 Insight
 

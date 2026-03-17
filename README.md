@@ -36,8 +36,8 @@ The objective: analyze airline activity using SQL in Snowflake and build clear, 
 
 ### ✈️ 1. Which aircraft is used the most?
 
-| Number of Flights by Aircraft | Distribution (%) |
-| :---: | :---: |
+| Number of Flights by Aircraft |
+| :---: | 
 | ![Flights by aircraft](screenshots/Q1_aircraft.png) |
 
 ### 🔍 Insight
@@ -53,8 +53,8 @@ The objective: analyze airline activity using SQL in Snowflake and build clear, 
 
 ### 🛫 2. Which airport transported the most passengers?
 
-| Passenger Volume | Passenger Distribution |
-| :---: | :---: |
+| Passenger Volume | 
+| :---: | 
 | ![Passengers](screenshots/Q2_airports.png) | 
 
 ### 🔍 Insight
